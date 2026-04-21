@@ -25,3 +25,7 @@ env/
 reports/
 *.class
 *.j
+src/
+tests/
+vibecoding.txt
+
